@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A grievous lamentation over thee O England or, the greatest part of thy inhabitants, who have withstood the day of their visitation : with the word of the Lord to thy rulers and teachers, who continue persecuting and oppressing the dear children and people of the Most High ... / ... William Bayly.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27129</idno>
+            <idno type="STC">Wing B1529</idno>
+            <idno type="STC">ESTC R16359</idno>
+            <idno type="EEBO-CITATION">12159711</idno>
+            <idno type="OCLC">ocm 12159711</idno>
+            <idno type="VID">55268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 857:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A grievous lamentation over thee O England or, the greatest part of thy inhabitants, who have withstood the day of their visitation : with the word of the Lord to thy rulers and teachers, who continue persecuting and oppressing the dear children and people of the Most High ... / ... William Bayly.</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55268:1" rendition="simple:additions"/>
+            <p>A Grievous LAMENTATION OVER THEE O ENGLAND, OR, The greateſt part of thy <hi>Inhabitants,</hi> who have <hi>withſtood</hi> the <hi>Day</hi> of their <hi>Viſitation.</hi>
+            </p>
+            <p>With the <hi>WORD</hi> of the <hi>LORD</hi> to thy <hi>Rulers</hi> and <hi>Teachers,</hi> who continue <hi>perſecuting</hi> and <hi>oppreſſing</hi> the dear <hi>Children</hi> and <hi>People</hi> of the <hi>Moſt High,</hi> whom he hath <hi>raiſed</hi> in thee, and <hi>ſent</hi> to <hi>warn</hi> thee, that thou mighteſt have <hi>re<g ref="char:EOLhyphen"/>pented</hi> and been <hi>ſaved</hi> from the wrath to come, which now ſhall <hi>ſpeedily</hi> overtake thee.</p>
+            <p>Through one born within thy borders, <hi>William Bayly.</hi>
+            </p>
+            <q>
+               <p>And he ſpread it before me, and it was written within and without, and there was written therein, Lamentations, and Mourning, and Wo.</p> 
+               <bibl>
+                  <hi>Read</hi> Ezek. <hi>chap. 2. throughout.</hi>
+               </bibl>
+               <p>O Jeruſalem, Jeruſalem, (thou that killeſt the Prophets, and ſtoneſt them which are ſent unto thee) how often would I have gathered thy children together, even as a Hen gathereth her Chickens under her wings, and ye would not, Behold your Houſe is left unto you deſolate; verily <hi>I</hi> ſay unto you, All theſe things ſhall come upon this generati<g ref="char:EOLhyphen"/>on, <bibl>
+                     <hi>Matt. 23.36, 37.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:55268:2"/>
+            <head>A grievous Lamentation over thee Oh England, &amp;c.</head>
+            <p>OH! England! England? Is it thy Lot to be the hiſſing and the aſtoniſhment of Nations? Hath 7. daies paſt over thee, &amp; thou yet remaineſt (as the Beaſts of the field) without underſtanding? Muſt it needs be that many of my Children muſt ſhake of the duſt of their feet againſt thy Rulers and Teachers, and turn to other Nati<g ref="char:EOLhyphen"/>ons, who ſhall riſe up in judgement againſt thee, becauſe in thee mighty works have been done, which if the ſame had been done in <hi>Tire</hi> and <hi>Sidon, Sodom</hi> and <hi>Gomorrah,</hi> they would have repented? <hi>Niniveh</hi> ſhall riſe up in judgement againſt thee, who repented at the preaching of <hi>Jonas;</hi> for behold a greater then <hi>Jonas</hi> hath preached in thy ſtreets. But what ſhall I ſay? muſt the day of thy viſitation paſs over thy head, and the Summer be ended, and thou not ſaved? Muſt thou be made an example, Oh England, to the whole earth? Muſt the noiſe of thy fall and ruin make the Nations afar off tremble: and to be awakened, and fear before the Lord, and ſeek after his ſalvation? Muſt the report come from thee, that muſt ſtrike the earth with amazement, and cauſe the ears of them that hear it to tingle? Oh <hi>England! England!</hi> what ſhal I do for thee? My bowels! my bowels! My heart is pained within me, and I am in ſorrow and diſtreſs for thee, as a woman in Travell. How often hath the Lord of Hoſts of late ſounded in mine ears that thy viſitation is nigh over? Thy
+<pb n="3" facs="tcp:55268:2"/> viſitation is nigh over, or elſe I muſt ſay (as <hi>Jeromiah</hi> did,) the Lord hath deceived me.</p>
+            <p>Oh England how oft have the pleaſant ſhowers of the viſitations from on high deſcended upon thee but where, and amongſt whom doth the fruits appear to the praiſe and glory of the dreſſer? Is not thy heaven braſs, and thy earth become iron? Are not the clouds returning after the rain in thee? Is not the Sun, and the Moon, and the Light darkened in thee? And is not thy golden bowl broken? and the wheel at the Ciſtern? and art not thou going to thy long home, and the mourners about the ſtreets? Muſt thou die without knowledge and be buried in the ſea of miſery? Muſt thy name become a Proverb? and thy remembrance an aſtoniſhment? what nation was like to thee, in the days that are gone? what oportunities haſt thou had of being made the praiſe of the whole earth. But now thou art become hardened, as if thou were raiſed up, that God's power and wonders might be made known upon thee. Muſt thou indeed be deſtroied, as God overthrew <hi>Egypt?</hi> Is <hi>Sodom</hi> thy ſiſter? Muſt the plagues and the judgements that are written, come upon thee? Muſt thou fall as the handfull after the Harveſt-man, and to be cut down as the graſs before the Mower? Muſt not juſt <hi>Lot,</hi> whoſe ſoul is vexed with thy unlawfull deeds, be firſt delivered? Muſt not <hi>Noah</hi> be in the Ark before the flood comes? Then ſhall the deſtroyer paſs through thee as a Gyant to run his race, and thou ſhalt be deſtroyed with a ſore deſtruction<g ref="char:punc">▪</g> what Lamentation ſhall I take up for thee, O England? How have my bones bin as ſhat<g ref="char:EOLhyphen"/>tered, &amp; my ſinews as torn in the remembrance of thy day? How doth my belly tremble, and my lips quiver at the feeling of the ſence of the burthen that is coming upon thee? Oh that I had in the wilderneſs a lodging-place
+<pb n="4" facs="tcp:55268:3"/> of way-faring men, that I might go from this People, and leave them. Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night! then ſhould I be eaſed. How deep is the ſence of thy Cala<g ref="char:EOLhyphen"/>mity entred into my ſoul, which makes me ſtagger like a drunken man, and as a reed ſhaken with the wind? Oh my ſoul, why art thou ſo diſquieted for this people? why doſt thou not caſt off their burthen, and be ſtill? Why doſt thou meditate their terrour in the night ſeaſons? Why art thou as as a bird ready to haſten into nations a far off? Why doth thy life draw as with a cart-rope into the ut<g ref="char:EOLhyphen"/>termoſt-parts of the earth.</p>
+            <p>Is thy native Country become a ſtrange Land? Or doſt thou love ſtrangers more then theſe? Oh that I might know why thou weepeſt thus in ſecret, and art become as a ſorrowfull woman? Haſt thou loſt a ſon, or doſt thou deſire a ſon like <hi>Hannah?</hi> What aileth thee, Oh my ſoul! that thou thus travelleſt night and day in ſorrow, as a mo<g ref="char:EOLhyphen"/>ther to bring forth, or as a child that crieth for its mo<g ref="char:EOLhyphen"/>ther? Do none of thy brethen partake of thy burthens, and do not their bowels feel they diſtreſſes? yes ſurely; Is it not becauſe <hi>I</hi> did once love thee, O <hi>England!</hi> and becauſe I now pity thee, ſeeing thy dreadful Doom, that I thus weep over thee? How art thou fallen, O Land, by thine iniquity! Even thy Kings and thy Rulers, thy Tea<g ref="char:EOLhyphen"/>chers and thy Leaders, thy Judges and thy Captains, thy Mighty men and thy Mean men, the Maſter &amp; the Scho<g ref="char:EOLhyphen"/>lar, the Miſtris and her Maid, the Buyer and the Seller? O the Darkneſs, ſuch as was in <hi>Egypt,</hi> which may be felt! O the hardneſs of heart, like an Adamant harder then flint! O the blindneſs, the born-blindneſs that is in thee, and co<g ref="char:EOLhyphen"/>vering thee as a garment! O the Pride and fulneſs, lifted-upneſs, impudency, and height of Ambition that is in
+<pb n="5" facs="tcp:55268:3"/> hee! Can it be higher? or can it be uttered by the tongue of man? O thou <hi>Lucifer,</hi> that thus dwelleſt, acteſt and reigneſt in thy Children! God's eternal judgments ſhall be upon thee, and his vengeance ſhall conſume thee, and the day is at hand. O the wantonneſs, Stubbornneſs prophaneneſs, lewdneſs, crookedneſs, cruelty, hypocriſie, deceit and oppreſſion that is in thee, O thou <hi>England!</hi> Thou haſt killed the Prophets of the Lord, &amp; ſtoned and perſecuted them that he hath ſent unto thee. O that thou wert not blinder then the Sodomites, and darker then <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> and deafer then the Adders, and more bruitiſh then the Beaſts of the field; then mighteſt thou hear or ſee ſomething of thy Viſitations. What is perſecution and cruelty about Religion and Worſhip yet found in thee? Are thy Teachers yet like Bryars, and thy Rulers like Thorns in the ſides of the tender Lambs of the moſt High? Be adviſed, O Land, what thou do'ſt againſt his people; For God hath yet a ſmal Remnant to be gathered out of thy bowels, whoſe cries and groans he hath heard, and will plead their Cauſe againſt all their oppreſſors by the fire of his jealouſie, which ſhall conſume the Briars and Thorns in one day.</p>
+            <p>O thou England, my native Country! Art thou become a wilderneſs? Is the Remnant of the Lord in thee like the Apple tree in the midſt of the trees of the forreſt, and as a Lilly among Thornes? Are the Tearers, Devourers, Scratchers and Prickers yet found in thee? Is not the Land curſed that bringeth forth theſe, after ſo much rain &amp; fruit<g ref="char:EOLhyphen"/>full ſeaſons? And is not their end burning? Yea everlaſt<g ref="char:EOLhyphen"/>ing burning.</p>
+            <p>What! is preaching the Goſpel of Chriſt Jeſus freely and publiquely in Villages, Towns and Cities become a tranſgreſſions? What! Muſt the meetings of the dear
+<pb n="6" facs="tcp:55268:4"/> children and Servants of God be called unlawful, and be broken up by the leud drunkards, ſwearers and prophane perſons, ſcoffers and ſcorners in thee, as mine Eyes have ſeen, and trickled down with Tears to behold it, with an heart breaking Lamentation over thee? <hi>O England! Eng<g ref="char:EOLhyphen"/>land!</hi> that I could plead with thee, as with one man face to face. Didſt thou ever perſecute me and my Brethren before we turn our faces towards the Paradice of God, from whence we were driven in <hi>Adam</hi> by tranſgreſſion? Didſt thou ever abuſe, beat, or impriſon me? didſt thou ever reproach or revile me, when I walked in vanity, wantonneſs and pride, and in the fooliſh faſhions and geſtures of this World? Nay, didſt thou not ſay well of me, when Gods witneſs in my own Conſci<g ref="char:EOLhyphen"/>ence did reprove and condemn me? Didſt thou ever caſt me into Priſon for breaking Gods Laws, for lying, or for ſwearing, or any other kind of prophaneneſs? But how ſoon didſt thou lay hold on my innocent throat, when I be<g ref="char:EOLhyphen"/>gan to turn my face towards <hi>Sion,</hi> and to ſpeak the lan<g ref="char:EOLhyphen"/>guage of <hi>Canaan?</hi> How often haſt thou dragged me upon the ſtones of thy ſtreets, and ſmitten me on the cheek-bone, and plucked off mine hair which God hath numbred? How often have thy Prieſts, Teachers, and chiefeſt profeſ<g ref="char:EOLhyphen"/>ſors abuſed me? How often have thy ſouldiers mocked and beaten me, with the rude people ſhouting and rent<g ref="char:EOLhyphen"/>ing my garments? How often have I been impriſoned ſince my heart was turned with brokenneſs and deſires to ſeek the living God in truth and righteouſneſs? Surely above theſe ten times as unjuſtly as a child from its Mo<g ref="char:EOLhyphen"/>thers breaſt. Yet for all this I never ſought revenge a<g ref="char:EOLhyphen"/>gainſt thee, but often wept in ſecret to my God for thee, who did ſtill quiet my heart in the contentedneſs of his own life and will, ſeeing his Counſel and end through
+<pb n="7" facs="tcp:55268:4"/> all theſe things. And I am yet ſo far from ſeeking revenge, though now again in bonds, through the unjuſt dealing of ſome of thy Prieſts and Rulers, that I have ſaid in my heart with tears unto God, O that I might lay down my life for <hi>England,</hi> that I might dye for <hi>England;</hi> which the Lord knoweth, I could freely do, that ſhe might yet repent and be ſaved. In whoſe preſence I have freely forgiven all mine enemies that have thus dealt with me, and can ſay to <hi>Richard Brown,</hi> the greateſt amongſt many called Aldermen of <hi>London,</hi> as my dearly beloved Brother <hi>E. B.</hi> did on his death bed, the Lord forgive thee, if it be yet poſſible; whoſe priſoner he died, and yet lives in my boſome, and the reſt of my brethrens, as he is a Martyr of Jeſus. Oh thou <hi>England!</hi> Have not we the wit<g ref="char:EOLhyphen"/>neſs of Heaven and Earth, that we are the Children of the moſt High, whom thou haſt thus abuſed and perſecuted, rob<g ref="char:EOLhyphen"/>bed and ſpoiled? and doſt thou think to proſper, by perſever<g ref="char:EOLhyphen"/>ing in theſe things againſt them? Nay, let me once more tell thee from the everlaſting God, That it ſhall be thy ruine. What canſt thou do with us, who fear not man, who can but kill the body, and after that hath power to do no more? We have given up our lives freely to live and to die unto our God, and to hold faſt his Name which is truth and righteouſ<g ref="char:EOLunhyphen"/>neſs, and to confeſs him before men while we have a being; and thou ſhalt never overcome us though thou ſhouldſt kill or im<g ref="char:EOLhyphen"/>priſon to death all our perſons or bodies, if it were poſſible; thy Fathers have not overcome the Prophets, Apoſtles, and Martyrs of Chriſt Jeſus in the days paſt; neither haſt thou overcome them, whom thou haſt beaten and impriſoned to death among us in theſe dayes; but they have overcome thee, and their Life is riſen again; of which we are witneſſes; and its with us, and remains with us for ever; whoſe blood cries loud in the Ears of the Lord Almighty, who will avenge and plead their Innocent cauſe. O <hi>England!</hi> are thy Rulers yet again ſaying,
+<pb n="8" facs="tcp:55268:5" rendition="simple:additions"/> that the <hi>Quakers</hi> will ſpread and over-run the Land? Have not I heard them ſay, we muſt prevent them, leaſt they become very Numerous, or more then we<g ref="char:punc">▪</g> and have not thy teachers run and complain'd to them, that they might be ſuppreſſed, yes ſurely in my ſight and hearing. And was not this the language of <hi>Egypt,</hi> their Magicians, wiſe-men, and Ru<g ref="char:EOLhyphen"/>lers? let us deal wiſely with them, leaſt they multiply and become great in Number, &amp;c. And were not the plagues poured forth upon that Land till <hi>Pharioh</hi> and his Hoaſt were deſtroyed? and is not God the ſame, and his ſeed and children the ſame, for ever?</p>
+            <p>Hear, O <hi>England!</hi> and all thy Rulers and teachers, and all the Inhabi<g ref="char:EOLhyphen"/>tants of ſpiritual <hi>Egypt</hi> and <hi>Sodom,</hi> thus ſaith the Lord God, Your Counſel ſhall come to nought, your purpoſes ſhall be aboliſhed and made void, your rage is in vain, your ſubtilty and wiſdom ſhall be con<g ref="char:EOLhyphen"/>founded, my dread ſhall fall upon you, ye light and vain rulers, who have taken upon you to ſit in Judgment againſt my people. Behold you ſhall ſit in the duſt, and you ſhall gnaw your tongues for pain and vexation, the day of your howling is at hand, in which you ſhall cry to the Rocks and Mountain, to hide you from my preſence. Ye hypo<g ref="char:EOLhyphen"/>crites, ye wanton ones, will ye not tremble at my preſence? have not I ſet bounds to the Sea? that though it toſſe and mount up? roar and ſwell, it cannot paſs my decree. Will you ſtrive with your Maker, ye pot<g ref="char:EOLhyphen"/>ſheards? will ye fight againſt God. Are you ſtronger then he that made Heaven and Earth, the Sea and all things therein by his Power? Am not <hi>I</hi> he that overthrew <hi>Sodom,</hi> and cut <hi>Rahah,</hi> and wounded the Dragon, and drowned the <hi>Egyptians</hi> in the Sea. Behold I will put my hook in your noſe, and my Bridle in your Jaws, &amp; turn you backwards ye devourers, ye beaſts of the field, and my people ſhall ſpread, and my ſeed ſhall increaſe, and be as the ſand, and as the ſtars of Heaven; and the Earth ſhall be filled with the knowledg of my Glory, as the waters covers the ſea. And you ſhall not prevail againſt them. Nay, though the whole earth ſhould be gathered together againſt my people, they ſhall not proſper, but be confounded and broken to pieces, and become as the chaffe before the winde, and as ſtubble before a conſuming fire; <hi>I</hi> the Lord have ſpoken it.</p>
+            <epigraph>
+               <q>
+                  <p>When they heard that, they were cut to the heart and took counſel to ſlay them; then ſtood there up one in the counſel, a Phariſee, named <hi>Gamaliel,</hi> a Doctor, of Law <hi>&amp;c.</hi> And ſaid unto them, Ye men of <hi>Iſrael,</hi> take heed to your ſelvs what ye intend to do as touching theſe men, <hi>&amp;c.</hi>
+                  </p>
+                  <p>And now <hi>I</hi> ſay unto you, refrain from theſe men and let them alone for if this work be of men it will come to nought, but if it be of God ye cannot everthrow it, leaſt happily ye he found even to fight againſt God. Read <hi>Acts. 5.27.</hi> to the end, and conſider it.</p>
+               </q>
+            </epigraph>
+            <closer>
+               <dateline>From my priſon Chamber at <hi>Hartford</hi> 
+                  <date>the 3d. Month. <hi>1663.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
